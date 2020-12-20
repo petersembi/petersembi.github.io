@@ -2,8 +2,8 @@
     font-family: Arial, Helvetica, sans-serrif;
     background: #000;
     color: #fff;
-    overflow: hidden; //to do away with scrollbars. 
-
+   /* overflow: hidden; //to do away with scrollbars. 
+*/
  }
 
  .container {
