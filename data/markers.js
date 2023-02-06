@@ -431,6 +431,177 @@ var markers = [
         img_url : ' https://gnrc.net/wp-content/uploads/2022/10/Mr.-Jameel-Hassan-Faraj-Contact-Person-Iraq-768x768.jpg'
 
     },
+    { 
+        country_name : 'Lebanon ',
+        latitude : '33.893791 ',
+        longitude : '35.501777',
+        contact_person : 'Fr. Abdo Raad',
+        contact_description : 'Coordinator, GNRC Lebanon  ',
+        img_url : ' https://gnrc.net/wp-content/uploads/2022/10/Abdo_Raad.jpg'
+
+    },
+    { 
+        country_name : 'Palestine',
+        latitude : '31.78336',
+        longitude : '35.23388',
+        contact_person : 'Mr. Rojer Salameh',
+        contact_description : 'Coordinator, GNRC Palestine ',
+        img_url : ' https://gnrc.net/wp-content/uploads/2022/10/Rojer_Salameh.jpg'
+
+    },
+    { 
+        country_name : 'Palestine',
+        latitude : '31.78336',
+        longitude : '35.23388',
+        contact_person : 'Mr. Rojer Salameh',
+        contact_description : 'Coordinator, GNRC Palestine ',
+        img_url : ' https://gnrc.net/wp-content/uploads/2022/10/Rojer_Salameh.jpg'
+
+    },
+    { 
+        country_name : 'Sudan ',
+        latitude : ' 15.500654',
+        longitude : '32.559899',
+        contact_person : 'Ms. Marian Iskander',
+        contact_description : 'Contact Person, GNRC Sudan  ',
+        img_url : ' https://gnrc.net/wp-content/uploads/2022/10/Marian_Iskander.jpg'
+
+    },
+    { 
+        country_name : 'Yemen  ',
+        latitude : ' 15.369445',
+        longitude : '44.191007',
+        contact_person : 'Mr. Tariq Al Amri',
+        contact_description : 'Coordinator, GNRC Yemen   ',
+        img_url : ' https://gnrc.net/wp-content/uploads/2022/10/Tariq_Al_Amri.jpg'
+
+    },
+    { 
+        country_name : 'Canada   ',
+        latitude : ' 45.421530',
+        longitude : '-75.697193',
+        contact_person : 'Dr. Fozia Alvi',
+        contact_description : 'Contact Person, GNRC Canada    ',
+        img_url : 'https://gnrc.net/wp-content/uploads/2022/10/Fozia_Alvi.jpg'
+
+    },
+    { 
+        country_name : 'USA    ',
+        latitude : ' 43.610150',
+        longitude : ' -122.201516',
+        contact_person : 'Rabbi Diana Gerson',
+        contact_description : 'Coordinator, GNRC USA     ',
+        img_url : 'https://gnrc.net/wp-content/uploads/2022/10/Diana_Gerson.jpg'
+
+    },
+    { 
+        country_name : 'USA    ',
+        latitude : ' 47.610150',
+        longitude : '-122.201516',
+        contact_person : 'Sage Williams',
+        contact_description : 'Contact Person, GNRC USA     ',
+        img_url : 'https://gnrc.net/wp-content/uploads/2022/10/Sage_Williams.jpg'
+
+    },
+    { 
+        country_name : 'Bhutan ',
+        latitude : ' 27.472792 ',
+        longitude : '89.639286',
+        contact_person : 'Mr. Phurba Sonam Waiba',
+        contact_description : 'Coordinator, GNRC Bhutan      ',
+        img_url : 'https://gnrc.net/wp-content/uploads/2022/10/Phurba_Waiba.jpg'
+
+    },
+    { 
+        country_name : 'India ',
+        latitude : ' 19.075984',
+        longitude : '72.877656',
+        contact_person : 'Mr. Gopal Vijayaragavan',
+        contact_description : 'Coordinator, GNRC India ',
+        img_url : '	https://gnrc.net/wp-content/uploads/2022/10/Gopal_Vijayaragavan.jpg'
+
+    },
+    { 
+        country_name : 'India ',
+        latitude : ' 19.075984',
+        longitude : '72.877656',
+        contact_person : 'Mr. Gopal Vijayaragavan',
+        contact_description : 'Coordinator, GNRC India ',
+        img_url : '	https://gnrc.net/wp-content/uploads/2022/10/Gopal_Vijayaragavan.jpg'
+
+    },
+    { 
+        country_name : 'Indonesia  ',
+        latitude : '-6.175110',
+        longitude : ' 106.865039',
+        contact_person : 'Ms. Nerlian Gogali',
+        contact_description : 'Coordinator, GNRC Indonesia ',
+        img_url : '	https://gnrc.net/wp-content/uploads/2022/10/Nerlian_Gogali.jpg'
+
+    },
+    { 
+        country_name : 'Malaysia   ',
+        latitude : '3.139003 ',
+        longitude : ' 101.686855',
+        contact_person : 'Dr. Shazmin Rafeeq',
+        contact_description : 'Coordinator, GNRC Malaysia  ',
+        img_url : '	https://gnrc.net/wp-content/uploads/2022/10/Shazmin_Rafeeq.jpg'
+
+    },
+    { 
+        country_name : 'Maldives   ',
+        latitude : '4.175496 ',
+        longitude : ' 73.509347',
+        contact_person : 'Ms. Fathimath Afiya',
+        contact_description : 'Contact Person, GNRC Maldives',
+        img_url : 'https://gnrc.net/wp-content/uploads/2022/10/Fathimath_Afiya.jpg'
+
+    },
+    { 
+        country_name : 'Nepal    ',
+        latitude : '27.717245 ',
+        longitude : ' 85.323960',
+        contact_person : 'Dr. Chintamani Yogi',
+        contact_description : 'Coordinator, Nepal ',
+        img_url : 'https://gnrc.net/wp-content/uploads/2022/10/Chintamani_Yogi.jpg'
+
+    },
+    { 
+        country_name : 'Pakistan',
+        latitude : '33.660036',
+        longitude : ' 73.229354',
+        contact_person : 'Mr. Iftikhar Mubarik',
+        contact_description : 'Contact Person, GNRC Pakistan',
+        img_url : '	https://gnrc.net/wp-content/uploads/2022/10/Iftikhar_Mubarik.jpg'
+
+    },
+    { 
+        country_name : 'Pakistan',
+        latitude : '33.660036',
+        longitude : ' 72.229354',
+        contact_person : 'Mr. David Paul',
+        contact_description : 'Contact Person, GNRC Pakistan',
+        img_url : 'https://gnrc.net/wp-content/uploads/2022/10/David_Paul.jpg'
+
+    },
+    { 
+        country_name : 'Philippines ',
+        latitude : '	14.599512',
+        longitude : '  120.984219',
+        contact_person : 'Bai Rohaniza Sumundad-Usman',
+        contact_description : 'Contact Person, GNRC Philippines ',
+        img_url : 'https://gnrc.net/wp-content/uploads/2022/10/Bai_Rohaniza.jpg'
+
+    },
+    { 
+        country_name : 'Sri Lanka ',
+        latitude : ' 6.927079',
+        longitude : ' 79.861243',
+        contact_person : 'Ms. Lakshman Sashikala',
+        contact_description : 'Coordinator, GNRC Sri Lanka ',
+        img_url : '	https://gnrc.net/wp-content/uploads/2022/10/Lakshman_Sashikala.jpg'
+
+    },
 
 
 ];
