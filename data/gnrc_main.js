@@ -69,19 +69,17 @@
 
    
    // set country color as per population estimate from the countries.geojson file.
-   function getCountryColor(popEst)
+   function getCountryColor(gnrc_presence)
    {
-       if(popEst > 100000000)
+       if(gnrc_presence === 1)
        {
-           return '#565656 ';
+        return '#008697';
         // return '#99cfd5';
           
 
-       } else if (popEst > 50000000) {
-           return '#339fac';
-       } else {
-        return '#008797';
-        //    return '#008697';
+       }  else {        
+            
+            return '#565656 ';
        }
 
    }
@@ -89,7 +87,7 @@
    function countriesStyle(feature)
    {
        return {
-           fillColor: getCountryColor(feature.properties.POP_EST),
+           fillColor: getCountryColor(feature.properties.GNRP_PRES),
            weight: 2,
            opacity: 1,
            color: 'white', 
