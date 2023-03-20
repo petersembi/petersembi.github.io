@@ -602,6 +602,62 @@ var markers = [
         img_url : '	https://gnrc.net/wp-content/uploads/2022/10/Lakshman_Sashikala.jpg'
 
     },
+    { 
+        country_name : 'Algeria',
+        latitude : '36.753768',
+        longitude : '3.058756',
+        contact_person : 'Dr Firouz Bibi',
+        contact_description : 'Contact Person, GNRC Algeria',
+        img_url : 'https://gnrc.net/wp-content/uploads/2023/03/Dr.-Firouz-Bibi-Algeria.jpeg'
+
+    },
+    { 
+        country_name : 'Zambia',
+        latitude : '-15.387526',
+        longitude : ' 28.322817',
+        contact_person : 'Sh. Yusuf Ayami',
+        contact_description : 'Contact Person, GNRC Zambia',
+        img_url : 'https://gnrc.net/wp-content/uploads/2023/03/Sh.-Yusuf-Ayami-Zambia.jpg'
+
+    },
+    { 
+        country_name : 'U.A.E',
+        latitude : '24.453884',
+        longitude : '54.377344',
+        contact_person : 'Mr. Hamad Khatir',
+        contact_description : 'Contact Person, GNRC U.A.E',
+        img_url : 'https://gnrc.net/wp-content/uploads/2023/03/Mr.-Hamad-Khatir-U.A.E.jpeg'
+
+    },
+    { 
+        country_name : 'Malawi',
+        latitude : '-13.962612',
+        longitude : ' 33.774119',
+        contact_person : 'Mr. Hameed Kongwe',
+        contact_description : 'Contact Person, GNRC Malawi',
+        img_url : 'https://gnrc.net/wp-content/uploads/2023/03/Mr.-Hameed-Kongwe-Malawi.jpg'
+    
+    },
+    { 
+        country_name : 'Niger',
+        latitude : '13.511596',
+        longitude : '2.125385',
+        contact_person : 'Mr. Kadri Hima',
+        contact_description : 'Contact Person, GNRC Niger',
+        img_url : 'https://gnrc.net/wp-content/uploads/2023/03/Mr.-Kadri-Hima-Niger.jpeg'
+    
+    },
+    { 
+        country_name : 'Thailand',
+        latitude : '13.756331',
+        longitude : '100.501765',
+        contact_person : 'Ms. Opor Srisuwan',
+        contact_description : 'Contact Person, GNRC Thailand',
+        img_url : 'https://gnrc.net/wp-content/uploads/2023/03/Ms.-Opor-Srisuwan-Thailand.jpg'
+    
+    },
+
+
 
 
 ];
